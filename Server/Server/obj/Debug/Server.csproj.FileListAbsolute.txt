@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\Server\Server\obj\Debug\Server.pdb
